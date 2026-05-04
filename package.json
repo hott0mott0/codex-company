@@ -1,0 +1,11 @@
+{
+  "name": "codex-company",
+  "version": "0.1.0",
+  "description": "Codex Marketplace Plugin port of Shin-sibainu/cc-company.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/plugin-definition.test.mjs"
+  },
+  "license": "MIT"
+}
